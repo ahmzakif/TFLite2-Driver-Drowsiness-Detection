@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>72_jpg.rf.d8b0010ba819a9bc1209aff6c92523e2.jpg</filename>
+	<path>72_jpg.rf.d8b0010ba819a9bc1209aff6c92523e2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drowsy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>281</xmin>
+			<xmax>434</xmax>
+			<ymin>63</ymin>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

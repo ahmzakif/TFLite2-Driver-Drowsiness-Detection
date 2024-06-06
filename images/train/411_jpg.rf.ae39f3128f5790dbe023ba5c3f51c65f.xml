@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>411_jpg.rf.ae39f3128f5790dbe023ba5c3f51c65f.jpg</filename>
+	<path>411_jpg.rf.ae39f3128f5790dbe023ba5c3f51c65f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>awake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>202</xmin>
+			<xmax>366</xmax>
+			<ymin>170</ymin>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>
